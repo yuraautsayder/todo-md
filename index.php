@@ -7,6 +7,7 @@
 </head>
 <body>
 <?php
+// TODO create project architecture
 // TODO add register and login with telegram
 // TODO add CRUD todo
 // TODO add todo template
